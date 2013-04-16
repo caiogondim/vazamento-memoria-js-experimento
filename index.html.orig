@@ -1,4 +1,13 @@
 <!doctype html>
+<<<<<<< HEAD
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Vazamento de memória em JS</title>
+</head>
+<body>
+  Lorem Ipsum
+=======
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -73,5 +82,6 @@
     })
 
   </script>
+>>>>>>> Experimento com jQuery
 </body>
 </html>
